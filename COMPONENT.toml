@@ -3,7 +3,7 @@ name = "SigmaOS-arch-shader-anonymous-learning-kernel"
 tier = 2
 stability = "scaffold"
 language = "rust"
-description = "arch-shader-anonymous-learning-kernel component"
+description = "SigmaOS component repository"
 upstream = []
 
 [contract]
